@@ -16,7 +16,7 @@ html,body{
 .line_1 {
   display: flex;
   height: 1em;
-  width: 30rem;
+  width: 26.5rem;
   border-bottom: 0.3rem solid #393737;
   top: 4.5rem;
   position: relative;
@@ -41,7 +41,7 @@ html,body{
 .image img {
   height: 17rem;
   width: 19rem;
-  left: 5.5rem;
+  left: 4.5rem;
   top: 15rem;
   position: absolute;
 }
