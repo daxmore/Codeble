@@ -64,8 +64,8 @@
 }
 
 .image img {
-  height: 17rem;
-  width: 19rem;
+  height: auto;
+  width: 100%;
   left: 4.5rem;
   top: 15rem;
   position: absolute;
