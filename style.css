@@ -69,7 +69,6 @@
   left: 4.5rem;
   top: 15rem;
   position: absolute;
-  min-height: 0px;
 }
 
 .sub-heding {
@@ -78,4 +77,3 @@
   position: relative;
   top: 26rem;
 }
-
