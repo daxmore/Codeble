@@ -69,6 +69,7 @@
   left: 4.5rem;
   top: 15rem;
   position: absolute;
+  overflow:hidden;
 }
 
 .sub-heding {
